@@ -8,3 +8,8 @@
 
 
 * [renet50 분류기]()
+
+
+* data
+- [train]()
+- [validation]()
