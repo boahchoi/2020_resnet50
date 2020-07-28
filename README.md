@@ -11,5 +11,5 @@
 
 
 ### - data
-* train data []()
-* validation data []()
+* train data (dog, cat, tiger)
+* validation data (dog, cat, tiger)
