@@ -16,6 +16,6 @@
 
 
 
-### - data
-  - train data (dog, cat, tiger)
-  - validation data (dog, cat, tiger)
+### library
+  - tensorflow 1.14
+  - keras 2.1.3
