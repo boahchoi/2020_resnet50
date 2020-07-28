@@ -13,7 +13,7 @@
 
 ###  Crawling
   - [crawling.ipynb](https://github.com/boahchoi/2020_resnet50/blob/master/crawling.ipynb)
-
+  - [crawlin_google.ipynb](https://github.com/boahchoi/2020_resnet50/blob/master/crawling_google.ipynb)
 
 
 
