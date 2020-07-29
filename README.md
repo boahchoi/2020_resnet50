@@ -23,6 +23,8 @@
   - [resnet50.ipynb]()
 
 
+### 오류
+  - [error.docx](https://github.com/boahchoi/2020_resnet50/blob/master/%EC%98%A4%EB%A5%98.docx)
 
 
 
